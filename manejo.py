@@ -19,4 +19,4 @@ x = -1
 if(x < 0):
     raise Exception("No se reciben numeros menores a 0")
 
-print("Prueba Git Hooks")
+print("Prueba Git Hook")
